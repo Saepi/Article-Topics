@@ -1,0 +1,42 @@
+# Core scientific stack
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Deep learning
+# torch
+# torchvision
+# torchaudio
+torchinfo
+torchtext
+torchinfo
+
+diffusers
+timm
+accelerate
+torch_fidelity
+einops
+transformers
+datasets
+peft
+
+# Computer vision utilities
+opencv-python
+Pillow
+scikit-image
+
+# Experiment tracking / utilities
+tqdm
+termcolor
+tensorboard
+
+# Optional but useful
+albumentations   # data augmentation for vision
+pyyaml           # configs
+
+kagglehub
+streamlit
